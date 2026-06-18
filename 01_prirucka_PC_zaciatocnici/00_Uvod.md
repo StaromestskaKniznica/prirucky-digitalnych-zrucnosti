@@ -10,8 +10,8 @@ Najčastejšia chyba, ktorú študenti robia, je, že sa snažia všetko si zap�
 
 V texte sa stretnete s mnohými obrázkami. Veľa z nich má v sebe šípky a čísla v červenom alebo v modrom kruhu.
 
-1. **Červené čísla** určujú poradie, v ktorom treba jednotlivé kroky vykonávať.
-2. **Modré čísla** popisujú jednotlivé časti obrázka a na poradí pri nich nezáleží.
+1. <span style="color: #cc0000;">**Červené čísla**</span> určujú poradie, v ktorom treba jednotlivé kroky vykonávať.
+2. <span style="color: #0066cc;">**Modré čísla**</span> popisujú jednotlivé časti obrázka a na poradí pri nich nezáleží.
 
 V oboch prípadoch nájdete pri obrázku príslušnú legendu s číslami zodpovedajúcej farby, ktorá jednotlivé kroky či položky vysvetľuje.
 
